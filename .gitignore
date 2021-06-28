@@ -1,0 +1,8 @@
+# Created by .ignore 
+
+# Dependency directories
+node_modules/
+
+# optional files
+git.md
+package-lock.json
